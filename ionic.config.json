@@ -1,0 +1,8 @@
+{
+  "name": "Don't Overthink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c90039bf"
+}
